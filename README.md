@@ -13,4 +13,3 @@ It also has a `Department` class and a `Gender` enum.
 1. Open the project in IntelliJ IDEA.
 2. Open the file `src/test/MainTest.java`.
 3. Click the green Run button next to the `main` method.
-3. Click the green Run button next to the `main` method.
